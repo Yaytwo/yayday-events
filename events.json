@@ -1,5 +1,5 @@
 {
-    "version": 19,
+    "version": 20,
     "events": [{
             "id": "nutella",
             "title": "Nutella Day",
@@ -795,19 +795,19 @@
          }
       },
            {
-         "id": "pasta",
-         "title": "World Pasta Day",
+         "id": "vegetables",
+         "title": "National Eat Your Vegetables Day",
          "type": "World",
-         "emoji": "🍝",
-         "color": {
-             "r": 8,
-             "g": 75,
-             "b": 153
-         },
-         "gifId": "13419986",
+         "emoji": "🍆",
+            "color": {
+                "r": 255,
+                "g": 243,
+                "b": 177
+            },
+         "gifId": "4606967",
          "occurrence": {
-             "day": 25,
-             "month": 10
+             "day": 17,
+             "month": 6
          }
       }
     ]
