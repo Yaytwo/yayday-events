@@ -1,0 +1,814 @@
+{
+    "version": 14,
+    "events": [{
+            "id": "nutella",
+            "title": "Nutella Day",
+            "type": "World",
+            "gifId": "8308760",
+            "occurrence": {
+                "day": 5,
+                "month": 2
+            }
+        },
+        {
+            "id": "lego",
+            "title": "International Lego Day",
+            "type": "World",
+            "gifId": "14278116",
+            "occurrence": {
+                "day": 28,
+                "month": 1
+            }
+        },
+        {
+            "id": "pizza",
+            "title": "Pizza Day",
+            "type": "World",
+            "emoji": "🍕",
+            "color": {
+                "r": 255,
+                "g": 233,
+                "b": 201
+            },
+            "gifId": "5175343",
+            "occurrence": {
+                "day": 9,
+                "month": 2
+            }
+        },
+        {
+            "id": "love-pet",
+            "title": "Love Your Pet Day",
+            "type": "World",
+            "emoji": "🐹",
+            "color": {
+                "r": 255,
+                "g": 186,
+                "b": 147
+            },
+            "gifId": "4783752",
+            "occurrence": {
+                "day": 20,
+                "month": 2
+            }
+        },
+        {
+            "id": "women-day",
+            "title": "International Women's Day",
+            "type": "World",
+            "emoji": "👭",
+            "color": {
+                "r": 255,
+                "g": 236,
+                "b": 250
+            },
+            "gifId": "13245102",
+            "occurrence": {
+                "day": 8,
+                "month": 3
+            }
+        },
+        {
+            "id": "awkward",
+            "title": "Awkward Moments Day",
+            "type": "World",
+            "emoji": "🙄",
+            "color": {
+                "r": 255,
+                "g": 243,
+                "b": 177
+            },
+            "gifId": "15268759",
+            "occurrence": {
+                "day": 18,
+                "month": 3
+            }
+        },
+        {
+            "id": "sleep",
+            "title": "World Sleep Day",
+            "type": "World",
+            "emoji": "😴",
+            "color": {
+                "r": 128,
+                "g": 140,
+                "b": 255
+            },
+            "gifId": "3552810",
+            "occurrence": {
+                "day": 19,
+                "month": 3
+            }
+        },
+        {
+            "id": "waffle",
+            "title": "Waffle Day",
+            "type": "World",
+            "emoji": "🧇",
+            "color": {
+                "r": 162,
+                "g": 111,
+                "b": 226
+            },
+            "gifId": "4456839",
+            "occurrence": {
+                "day": 25,
+                "month": 3
+            }
+        },
+        {
+            "id": "neighbor",
+            "title": "Neighbor Day",
+            "type": "World",
+            "emoji": "🏠",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "gifId": "15175329",
+            "occurrence": {
+                "day": 28,
+                "month": 3
+            }
+        },
+        {
+            "id": "husband",
+            "title": "Husband Appreciation Day",
+            "type": "World",
+            "emoji": "💞",
+            "color": {
+                "r": 178,
+                "g": 179,
+                "b": 222
+            },
+            "gifId": "17916533",
+            "occurrence": {
+                "day": 15,
+                "month": 4
+            }
+        },
+        {
+            "id": "star-wars",
+            "title": "Star Wars Day",
+            "type": "World",
+            "gifId": "19389758",
+            "occurrence": {
+                "day": 4,
+                "month": 5
+            }
+        },
+        {
+            "id": "hamburger",
+            "title": "Hamburger Day",
+            "type": "World",
+            "emoji": "🍔",
+            "color": {
+                "r": 120,
+                "g": 219,
+                "b": 154
+            },
+            "gifId": "5473097",
+            "occurrence": {
+                "day": 28,
+                "month": 5
+            }
+        },
+        {
+            "id": "best-friend",
+            "title": "Best Friends Day",
+            "type": "World",
+            "emoji": "💛",
+            "color": {
+                "r": 33,
+                "g": 109,
+                "b": 165
+            },
+            "gifId": "16747491",
+            "occurrence": {
+                "day": 8,
+                "month": 6
+            }
+        },
+        {
+            "id": "yoga",
+            "title": "International Yoga Day",
+            "type": "World",
+            "emoji": "🧘",
+            "color": {
+                "r": 8,
+                "g": 111,
+                "b": 37
+            },
+            "gifId": "12594045",
+            "occurrence": {
+                "day": 21,
+                "month": 6
+            }
+        },
+        {
+            "id": "kiss",
+            "title": "International Kissing Day",
+            "type": "World",
+            "emoji": "😚",
+            "color": {
+                "r": 255,
+                "g": 57,
+                "b": 117
+            },
+            "gifId": "10194764",
+            "occurrence": {
+                "day": 6,
+                "month": 7
+            }
+        },
+        {
+            "id": "beer",
+            "title": "International Beer Day",
+            "type": "World",
+            "emoji": "🍺",
+            "color": {
+                "r": 92,
+                "g": 27,
+                "b": 231
+            },
+            "gifId": "15844984",
+            "occurrence": {
+                "day": 6,
+                "month": 8
+            }
+        },
+        {
+            "id": "cat",
+            "title": "International Cat Day",
+            "type": "World",
+            "emoji": "🐱",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "gifId": "11087999",
+            "occurrence": {
+                "day": 8,
+                "month": 8
+            }
+        },
+        {
+            "id": "blame",
+            "title": "Blame Someone Else Day",
+            "type": "World",
+            "emoji": "👉",
+            "color": {
+                "r": 39,
+                "g": 0,
+                "b": 89
+            },
+            "gifId": "9201292",
+            "occurrence": {
+                "day": 13,
+                "month": 8
+            }
+        },
+        {
+            "id": "dog",
+            "title": "International Dog Day",
+            "type": "World",
+            "emoji": "🐶",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "gifId": "12144452",
+            "occurrence": {
+                "day": 26,
+                "month": 8
+            }
+        },
+        {
+            "id": "late",
+            "title": "Be Late For Something Day",
+            "type": "World",
+            "emoji": "🐌",
+            "color": {
+                "r": 255,
+                "g": 133,
+                "b": 169
+            },
+            "gifId": "15034587",
+            "occurrence": {
+                "day": 5,
+                "month": 9
+            }
+        },
+        {
+            "id": "bra",
+            "title": "No Bra Day",
+            "type": "World",
+            "emoji": "🔞",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "gifId": "17647285",
+            "occurrence": {
+                "day": 13,
+                "month": 10
+            }
+        },
+        {
+            "id": "spreadsheet",
+            "title": "Spreadsheet Day",
+            "type": "World",
+            "emoji": "📉",
+            "color": {
+                "r": 101,
+                "g": 187,
+                "b": 48
+            },
+            "gifId": "15175973",
+            "occurrence": {
+                "day": 17,
+                "month": 10
+            }
+        },
+        {
+            "id": "cranky",
+            "title": "Cranky Co-Workers Day",
+            "type": "World",
+            "emoji": "🤬",
+            "color": {
+                "r": 182,
+                "g": 175,
+                "b": 255
+            },
+            "gifId": "4514235",
+            "occurrence": {
+                "day": 27,
+                "month": 10
+            }
+        },
+        {
+            "id": "vegan",
+            "title": "World Vegan Day",
+            "type": "World",
+            "emoji": "🥦",
+            "color": {
+                "r": 163,
+                "g": 255,
+                "b": 131
+            },
+            "gifId": "5334914",
+            "occurrence": {
+                "day": 1,
+                "month": 11
+            }
+        },
+
+        {
+            "id": "men-dinner",
+            "title": "Men Make Dinner Day",
+            "type": "World",
+            "emoji": "👨‍🍳",
+            "color": {
+                "r": 254,
+                "g": 255,
+                "b": 195
+            },
+            "gifId": "4522320",
+            "occurrence": {
+                "day": 5,
+                "month": 11
+            }
+        },
+        {
+            "id": "single",
+            "title": "Single Day",
+            "type": "World",
+            "emoji": "😒",
+            "color": {
+                "r": 91,
+                "g": 176,
+                "b": 255
+            },
+            "gifId": "3566239",
+            "occurrence": {
+                "day": 11,
+                "month": 11
+            }
+        },
+        {
+            "id": "bartender",
+            "title": "Bartender Appreciation Day",
+            "type": "World",
+            "emoji": "🍸",
+            "color": {
+                "r": 98,
+                "g": 35,
+                "b": 128
+            },
+            "gifId": "14838087",
+            "occurrence": {
+                "day": 4,
+                "month": 12
+            }
+        },
+        {
+            "id": "regifting",
+            "title": "Re-gifting Day",
+            "type": "World",
+            "emoji": "🎁",
+            "color": {
+                "r": 255,
+                "g": 136,
+                "b": 136
+            },
+            "gifId": "10520614",
+            "occurrence": {
+                "day": 16,
+                "month": 12
+            }
+        },
+        {
+            "id": "valentine",
+            "title": "Valentine's Day",
+            "type": "World",
+            "emoji": "💖",
+            "color": {
+                "r": 112,
+                "g": 1,
+                "b": 121
+            },
+            "gifId": "5637792",
+            "occurrence": {
+                "day": 14,
+                "month": 2
+            }
+        },
+        {
+            "id": "groundhog",
+            "title": "Groundhog Day",
+            "type": "World",
+            "emoji": "🦫",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "country": "US",
+            "gifId": "5015185",
+            "occurrence": {
+                "day": 2,
+                "month": 2
+            }
+        },
+        {
+            "id": "patrick",
+            "title": "St. Patrick's Day",
+            "type": "World",
+            "emoji": "☘️",
+            "color": {
+                "r": 4,
+                "g": 95,
+                "b": 40
+            },
+            "country": "US",
+            "gifId": "16572050",
+            "occurrence": {
+                "day": 17,
+                "month": 3
+            }
+        },
+        {
+            "id": "earth",
+            "title": "Earth Day",
+            "type": "World",
+            "emoji": "🌎",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "gifId": "5318677",
+            "occurrence": {
+                "day": 22,
+                "month": 4
+            }
+        },
+        {
+            "id": "nurses",
+            "title": "Nurses Day",
+            "type": "World",
+            "emoji": "🏥",
+            "color": {
+                "r": 233,
+                "g": 233,
+                "b": 240
+            },
+            "country": "US",
+            "gifId": "16760196",
+            "occurrence": {
+                "day": 6,
+                "month": 5
+            }
+        },
+        {
+            "id": "independence",
+            "title": "Independence Day",
+            "type": "World",
+            "emoji": "🇺🇸",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "country": "US",
+            "gifId": "17716074",
+            "occurrence": {
+                "day": 4,
+                "month": 6
+            }
+        },
+        {
+            "id": "labor",
+            "title": "Labor Day",
+            "type": "World",
+            "emoji": "💼",
+            "color": {
+                "r": 204,
+                "g": 172,
+                "b": 255
+            },
+            "country": "US",
+            "gifId": "5112093",
+            "occurrence": {
+                "day": 6,
+                "month": 9
+            }
+        },
+        {
+            "id": "grandpa",
+            "title": "Grandparents Day",
+            "type": "World",
+            "emoji": "👵",
+            "color": {
+                "r": 128,
+                "g": 221,
+                "b": 210
+            },
+            "country": "US",
+            "gifId": "4494563",
+            "occurrence": {
+                "day": 12,
+                "month": 9
+            }
+        },
+        {
+            "id": "sock",
+            "title": "National Lost Sock Memorial Day",
+            "type": "World",
+            "emoji": "🧦",
+            "color": {
+                "r": 145,
+                "g": 204,
+                "b": 236
+            },
+            "country": "US",
+            "gifId": "14138357",
+            "occurrence": {
+                "day": 9,
+                "month": 5
+            }
+        },
+        {
+            "id": "halloween",
+            "title": "Halloween",
+            "type": "World",
+            "emoji": "🎃",
+            "color": {
+                "r": 19,
+                "g": 12,
+                "b": 111
+            },
+            "country": "US",
+            "gifId": "7958715",
+            "occurrence": {
+                "day": 31,
+                "month": 10
+            }
+        },
+        {
+            "id": "thanksgiving",
+            "title": "Thanksgiving",
+            "type": "World",
+            "emoji": "🙏",
+            "color": {
+                "r": 210,
+                "g": 255,
+                "b": 244
+            },
+            "country": "US",
+            "gifId": "19120539",
+            "occurrence": {
+                "day": 31,
+                "month": 10
+            }
+        },
+        {
+            "id": "mother",
+            "title": "Mother's Day",
+            "type": "World",
+            "emoji": "👩",
+            "color": {
+                "r": 145,
+                "g": 0,
+                "b": 234
+            },
+            "country": "US",
+            "gifId": "7248628",
+            "occurrence": {
+                "day": 9,
+                "month": 5
+            }
+        },
+        {
+            "id": "father",
+            "title": "Father's Day",
+            "type": "World",
+            "emoji": "👨‍🦰",
+            "color": {
+                "r": 46,
+                "g": 32,
+                "b": 199
+            },
+            "country": "US",
+            "gifId": "15087231",
+            "occurrence": {
+                "day": 20,
+                "month": 6
+            }
+        },
+        {
+         "id": "wildlife",
+         "title": "World Wildlife Day",
+         "type": "World",
+         "emoji": "🐻",
+         "color": {
+             "r": 143,
+             "g": 255,
+             "b": 242
+         },
+         "gifId": "19323791",
+         "occurrence": {
+             "day": 3,
+             "month": 3
+         }
+      },
+        {
+         "id": "happiness",
+         "title": "International Day of Happiness",
+         "type": "World",
+         "emoji": "😆",
+         "color": {
+             "r": 255,
+             "g": 215,
+             "b": 177
+         },
+         "gifId": "14295551",
+         "occurrence": {
+             "day": 20,
+             "month": 3
+         }
+      },
+        {
+         "id": "health",
+         "title": "World Health Day",
+         "type": "World",
+         "emoji": "🏃‍♀️",
+         "color": {
+             "r": 212,
+             "g": 177,
+             "b": 255
+         },
+         "gifId": "6177089",
+         "occurrence": {
+             "day": 7,
+             "month": 4
+         }
+      },
+        {
+         "id": "space",
+         "title": "International Day of Human Space Flight",
+         "type": "World",
+         "emoji": "🚀",
+         "color": {
+             "r": 69,
+             "g": 23,
+             "b": 169
+         },
+         "gifId": "15935992",
+         "occurrence": {
+             "day": 12,
+             "month": 4
+         }
+      },
+        {
+         "id": "tea",
+         "title": "International Tea Day",
+         "type": "World",
+         "emoji": "🫖",
+         "color": {
+             "r": 255,
+             "g": 224,
+             "b": 248
+         },
+         "gifId": "17437592",
+         "occurrence": {
+             "day": 21,
+             "month": 5
+         }
+      },
+        {
+         "id": "bicycle",
+         "title": "World Bicycle Day",
+         "type": "World",
+         "emoji": "🚴",
+         "color": {
+             "r": 78,
+             "g": 180,
+             "b": 143
+         },
+         "gifId": "5436849",
+         "occurrence": {
+             "day": 3,
+             "month": 6
+         }
+      },
+        {
+         "id": "sushi",
+         "title": "World Sushi Day",
+         "type": "World",
+         "emoji": "🍣",
+         "color": {
+             "r": 147,
+             "g": 97,
+             "b": 40
+         },
+         "gifId": "16104626",
+         "occurrence": {
+             "day": 18,
+             "month": 6
+         }
+      },
+         {
+         "id": "fries",
+         "title": "International French Fries Day",
+         "type": "World",
+         "emoji": "🍟",
+         "color": {
+             "r": 250,
+             "g": 239,
+             "b": 180
+         },
+         "gifId": "18153014",
+         "occurrence": {
+             "day": 13,
+             "month": 7
+         }
+      },
+         {
+         "id": "peace",
+         "title": "International Peace Day",
+         "type": "World",
+         "emoji": "✌️",
+         "color": {
+             "r": 87,
+             "g": 204,
+             "b": 141
+         },
+         "gifId": "14127180",
+         "occurrence": {
+             "day": 21,
+             "month": 9
+         }
+      },
+           {
+         "id": "pasta",
+         "title": "World Pasta Day",
+         "type": "World",
+         "emoji": "🍝",
+         "color": {
+             "r": 8,
+             "g": 75,
+             "b": 153
+         },
+         "gifId": "13419986",
+         "occurrence": {
+             "day": 25,
+             "month": 10
+         }
+      }
+    ]
+}
